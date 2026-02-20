@@ -1,0 +1,26 @@
+ID,Product,Category,Quantity,PricePerUnit,Date
+1,Smartphone,Electronics,10,25.5,1/1/2024
+2,Laptop,Electronics,8,18.75,1/2/2024
+3,Headphones,Electronics,15,12.9,1/3/2024
+4,Refrigerator,Appliances,12,30,2/1/2024
+5,Blender,Appliances,5,22.5,2/2/2024
+6,Smartwatch,Electronics,20,15,2/3/2024
+7,Dishwasher,Appliances,8,35,3/1/2024
+8,Tablet,Electronics,10,28.5,3/2/2024
+9,Smart TV,Electronics,18,20,3/3/2024
+10,Air Purifier,Appliances,15,28,4/1/2024
+11,Coffee Maker,Appliances,7,22.5,4/2/2024
+12,Gaming Console,Electronics,25,15,4/3/2024
+13,Fitness Tracker,Electronics,11,30,5/1/2024
+14,Toaster,Electronics,9,18.75,5/2/2024
+15,Coffee Grinder,Appliances,22,12.9,5/3/2024
+16,Air Fryer,Appliances,13,32,6/1/2024
+17,Portable Speaker,Electronics,6,25.5,6/2/2024
+18,Vacuum Cleaner,Electronics,30,20,6/3/2024
+19,Electric Kettle,Appliances,9,30,7/1/2024
+20,Microwave,Appliances,12,25,7/2/2024
+21,Drone,Electronics,28,18.75,7/3/2024
+22,Camera,Electronics,14,35,8/1/2024
+23,Iron,Electronics,11,28.5,8/2/2024
+24,Soundbar,Appliances,35,15,8/3/2024
+25,Laptop Stand,Appliances,16,32,9/1/2024

@@ -1,0 +1,9 @@
+ID,Product,Category,Quantity,PricePerUnit,Date,Month
+16,Air Fryer,Appliances,13,32.0,2024-06-01,6
+18,Vacuum Cleaner,Electronics,30,20.0,2024-06-03,6
+20,Microwave,Appliances,12,25.0,2024-07-02,7
+21,Drone,Electronics,28,18.75,2024-07-03,7
+22,Camera,Electronics,14,35.0,2024-08-01,8
+23,Iron,Electronics,11,28.5,2024-08-02,8
+24,Soundbar,Appliances,35,15.0,2024-08-03,8
+25,Laptop Stand,Appliances,16,32.0,2024-09-01,9
